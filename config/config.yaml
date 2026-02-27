@@ -1,0 +1,4 @@
+base_url: "http://ufcstats.com"
+elo:
+  k_factor: 32
+  initial_rating: 1500
